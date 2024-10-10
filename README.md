@@ -1,0 +1,2 @@
+# OpenLessonLinq
+About linq
