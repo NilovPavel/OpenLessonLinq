@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bonus", "OpenLessonLinq\Bon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmediateDeferred", "OpenLessonLinq\ImmediateDeferred\ImmediateDeferred.csproj", "{158C724C-6585-48D8-9EFF-5B85A14F46D7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comparers", "OpenLessonLinq\Comparers\Comparers.csproj", "{E24948E3-7FC9-4526-B043-71FB02EDF745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{158C724C-6585-48D8-9EFF-5B85A14F46D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{158C724C-6585-48D8-9EFF-5B85A14F46D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{158C724C-6585-48D8-9EFF-5B85A14F46D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24948E3-7FC9-4526-B043-71FB02EDF745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24948E3-7FC9-4526-B043-71FB02EDF745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24948E3-7FC9-4526-B043-71FB02EDF745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24948E3-7FC9-4526-B043-71FB02EDF745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -159,6 +165,7 @@ Global
 		{8A4E5737-6712-44BD-BD38-A86EFEFA99F2} = {8C465824-8AF7-4E2D-B953-84406F1DB593}
 		{EB8AD797-EA6B-48E7-9CF0-AA28F010F9F1} = {F4D367C4-9E75-4648-9C59-A21AA0592E3B}
 		{158C724C-6585-48D8-9EFF-5B85A14F46D7} = {48CAA5F5-16B6-4275-BD6B-673184FCE7C3}
+		{E24948E3-7FC9-4526-B043-71FB02EDF745} = {F4D367C4-9E75-4648-9C59-A21AA0592E3B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BFC15A1B-D697-492B-B489-F29831F7A4FB}
